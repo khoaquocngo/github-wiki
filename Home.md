@@ -6,16 +6,16 @@ Welcome to the official Wiki for **My Project**. Here you'll find all the essent
 
 ## 📖 Table of Contents
 
-- [Installation](install-0home)
-  - [Clone the Repository](install-clone)
-  - [Create a Wiki Page](install-create)
-  - [Push Changes](install-push)
-- [Usage](usage-0home)
-  - [Markdown Syntax](usage-markdown)
-  - [Embed Images](usage-images)
-  - [Link Pages](usage-link)
-  - [Table of Contents](usage-toc)
-  - [`.md` Files and Images](usage-md-and-image)
+- [Installation](/install/install-0home.md)
+  - [Clone the Repository](/install/install-clone.md)
+  - [Create a Wiki Page](/install/install-create.md)
+  - [Push Changes](/install/install-push.md)
+- [Usage](/usage/usage-0home.md)
+  - [Markdown Syntax](/usage/usage-markdown.md)
+  - [Embed Images](/usage/usage-images.md)
+  - [Link Pages](/usage/usage-link.md)
+  - [Table of Contents](/usage/usage-toc.md)
+  - [`.md` Files and Images](/usage/usage-md-and-image.md)
 
 ---
 
@@ -39,7 +39,7 @@ Follow our [Installation Guide](install-home) to set up the project locally.
 
 ### Issue: Organizing GitHub Wiki Files and Images
 
-[Link to Solution](usage-md-and-image)
+[Link to Solution](usage/usage-md-and-image.md)
 
 ### Issue: Images not showing on Wiki  
 

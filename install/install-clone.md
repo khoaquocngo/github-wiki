@@ -7,10 +7,10 @@ Follow these steps to enable GitHub Wiki and clone the Wiki repository locally.
 ## Step 1: Enable Wiki on GitHub
 
 - Go to your repository → Click the **"Wiki"** tab → Select **"Create the first page"**  
-  ![Create Wiki tab](images/1742616533894.png)
+  ![Create Wiki tab](../images/1742616533894.png)
 
 - Create an initial page (e.g., `Home`) → Click **Save**  
-  ![Create first page](images/1742616533895.png)
+  ![Create first page](../images/1742616533895.png)
 
 ---
 

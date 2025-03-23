@@ -8,7 +8,7 @@ This guide shows how to create Markdown pages, embed images, and organize files 
 
 - Open the cloned Wiki folder in your preferred code editor (e.g., VS Code, PyCharm).
 - Example folder: `<repository>.wiki/`  
-  ![Open in editor](images/1742616533896.png)
+  ![Open in editor](../images/1742616533896.png)
 
 ---
 
@@ -16,7 +16,7 @@ This guide shows how to create Markdown pages, embed images, and organize files 
 
 - Each `.md` file becomes a separate Wiki page on GitHub.
 - Example: `home.md`, `Installation.md`, `Usage.md`  
-  ![Create new file](images/1742616533897.png)
+  ![Create new file](../images/1742616533897.png)
 
 ---
 
@@ -59,4 +59,4 @@ This guide helps you set up the project locally.
 3. Run the application
 ```
 
-  ![View write content](images/1742616533898.png)
+  ![View write content](../images/1742616533898.png)

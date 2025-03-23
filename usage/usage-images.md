@@ -10,7 +10,7 @@ This guide shows how to embed images in your GitHub Wiki using local image files
    - Inside your cloned Wiki repository, create a folder named `images/`.
    - Add all image files into this folder.
 
-   ![Create images folder](images/17426165338100.png)
+   ![Create images folder](../images/17426165338100.png)
 
 2. **Embed Image Using Markdown**
    - Use relative paths to link images in your `.md` files:
