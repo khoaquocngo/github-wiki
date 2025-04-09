@@ -10,6 +10,7 @@ Welcome to the official Wiki for **My Project**. Here you'll find all the essent
   - [Clone the Repository](/install/install-clone.md)
   - [Create a Wiki Page](/install/install-create.md)
   - [Push Changes](/install/install-push.md)
+  - [Folder Structure and Naming Conventions](install/install-structure.md)
 - [Usage](/usage/usage-0home.md)
   - [Markdown Syntax](/usage/usage-markdown.md)
   - [Embed Images](/usage/usage-images.md)

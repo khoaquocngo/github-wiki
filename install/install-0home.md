@@ -15,6 +15,9 @@ This section helps you set up and manage your GitHub Wiki efficiently from cloni
 3. [Push Changes to GitHub](install-push.md)  
    Commit your edits and push them to make updates live on your GitHub Wiki.
 
+4. [Create Wiki Sidebar](_Sidebar.md)  
+   Add a navigation sidebar to help users browse your Wiki efficiently.
+
 ---
 
 🎯 Start by [cloning the repository](install-clone.md), [create your first page](install-create.md), and don’t forget to [push your changes](install-push.md)!
